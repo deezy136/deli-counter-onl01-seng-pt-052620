@@ -6,7 +6,8 @@ def line(deli)
       puts "The line is currently empty."
       
     else 
-      puts "The Line is currently: #"
+      current_line = "The line is currently: "
+      
  end 
  
  

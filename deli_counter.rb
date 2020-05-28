@@ -2,6 +2,7 @@
 
 def line(empty)
   
-  "t"
+ "The line is currently empty."
+ 
  
 end 

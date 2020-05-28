@@ -2,5 +2,6 @@
 
 def line(empty)
   
+  puts empty
  
 end 

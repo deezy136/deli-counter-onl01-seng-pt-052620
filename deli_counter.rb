@@ -1,8 +1,10 @@
 # Write your code here.
 
-def line(empty)
+def line(empty=nil)
   
- "The line is currently empty."
- 
+ if empty == nil 
+   puts "The line is currently empty."
+ else 
+   "The "
  
 end 

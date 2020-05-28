@@ -2,6 +2,6 @@
 
 def line(empty)
   
-  puts empty
+  "t"
  
 end 

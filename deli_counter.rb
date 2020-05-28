@@ -10,6 +10,7 @@ def line(deli)
       deli.each.with_index(1) do |person, num|
       current_line = " #{i}. #{person}"
     end 
+    
       end 
  end 
  
